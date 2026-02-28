@@ -10,7 +10,7 @@ Yeh ek **Automated Sales Intelligence System** hai jo factory aur business opera
 ---
 
 ## 🖼️ Dashboard Preview
-<img width="1024" height="383" alt="image" src="https://github.com/user-attachments/assets/72851127-d8c1-4112-bdf6-73ceb7455eee" />
+<img width="2341" height="877" alt="! Alt text (imagesphoto png)" src="https://github.com/user-attachments/assets/6577c716-1209-4c90-8054-6afb7f646d26" />
 
 
 ---
