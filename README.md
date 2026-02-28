@@ -58,5 +58,5 @@ Dashboard ko build karne ke liye niche di gayi libraries ka upyog kiya gaya hai:
 - **Scalability:** Isme naya factory data asani se add kiya ja sakta hai.
 
 ---
-**Developed by:** [Aapka Naam]  
+**Developed by:** [Shivam Mishra ]  
 **Project Category:** Factory Operations & Sales Analytics
