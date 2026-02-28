@@ -1,62 +1,42 @@
-# 🏢 Dynamic Factory Sales & Profit Intelligence Dashboard
+# 🏢 Factory Sales & Operations Intelligence Dashboard
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red.svg)](https://streamlit.io/)
-[![Plotly](https://img.shields.io/badge/Visualization-Plotly-orange.svg)](https://plotly.com/)
-
-## 📝 Project Overview
-Yeh ek **Automated Sales Intelligence System** hai jo factory aur business operations ke raw data ko real-time insights mein convert karta hai. Is dashboard ka main uddeshya sales performance ko monitor karna, profit trends ko analyze karna aur high-value customers ko identify karna hai.
+Ek automated data visualization project jo factory sales, profit trends aur customer behavior ko analyze karne ke liye banaya gaya hai. Yeh dashboard raw data ko actionable insights mein convert karta hai.
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🖼️ Dashboard Visualization
 <p align="center">
-  <img src="image_8de1a2.png" width="900" alt="Sales Dashboard Preview">
+  <img src="dashboard_preview.png" width="100%" alt="Sales Dashboard Preview">
+  <br>
+  <i>Factory Sales Analysis Interface (2014-2017)</i>
 </p>
 
 ---
 
-## 🚀 Key Modules & Automated Analytics
+## 📝 Project Description
+Yeh project ek **Automated Sales Analytics System** hai. Iska uddeshya factory owners aur managers ko real-time data dikhana hai taaki wo business decisions fast le sakein. Isme Sales, Profit, aur Customer trends ko categorize kiya gaya hai.
 
-### 1. **Sales Performance Matrix**
-Dashboard ka left section har product category (Phones, Chairs, Storage, etc.) ki total sales ko automatically rank karta hai. 
-* **Insight:** "Phones" ne sabse zyada **330,007.1** ki sales generate ki hai.
-
-### 2. **Profit Growth Intelligence (Over Time)**
-Central line chart automatic profit tracking dikhata hai. 
-* **Growth Path:** 2014 mein profit **21,492.95** tha jo 2017 tak badhkar **50,684.64** ho gaya.
-
-### 3. **Geographical & Customer Analysis**
-* **Regional Sales:** Map visualization dikhata hai ki factory ka distribution kin states mein sabse zyada hai.
-* **Customer Loyalty:** Pie chart top 5 customers (Tamara Chand, Raymond Buch, etc.) ka profit contribution breakdown karta hai.
-
-### 4. **Monthly Seasonality Trends**
-Area chart ke zariye mahine-dar-mahine sales ki peaks aur valleys track hoti hain, jisse inventory management mein aasani hoti hai.
+### **Key Analytical Insights:**
+* **Sales Ranking:** "Phones" aur "Chairs" factory ke top-performing products hain.
+* **Profit Trajectory:** 2014 se 2017 tak ka profit growth track kiya gaya hai, jo **21,492** se badhkar **50,684** tak pahunch gaya hai.
+* **Seasonal Trends:** Monthly sales area chart ke zariye hum saal ke peaks (March, September, November) ko identify kar sakte hain.
+* **Customer Loyalty:** Top 5 customers (jaise Tamara Chand aur Raymond Buch) ka profit share pie chart mein analyze kiya gaya hai.
 
 ---
 
-## 🛠️ Automated Technical Setup
-Dashboard ko build karne ke liye niche di gayi libraries ka upyog kiya gaya hai:
-
-| Library | Function |
-| :--- | :--- |
-| **Pandas** | Data Cleaning & Automation |
-| **Plotly Express** | Interactive Graph Generation |
-| **Streamlit** | Web Application Interface |
-| **JSON/CSV** | Data Storage & Handling |
-
-## ⚙️ Execution Guide
-1. **Repository Clone Karein:** `git clone https://github.com/yourusername/factory-sales-dashboard.git`
-2. **Requirements Install Karein:** `pip install -r requirements.txt`
-3. **Application Run Karein:** `streamlit run app.py`
+## 🛠️ Technical Tech-Stack
+* **Language:** Python 3.x
+* **Framework:** Streamlit (For Web Interface)
+* **Visualizations:** Plotly Express (For Interactive Charts)
+* **Data Engine:** Pandas (For Data Manipulation)
 
 ---
 
-## 📊 Business Impact
-- **Efficiency:** Manual reporting ka waqt 80% tak kam ho jata hai.
-- **Accuracy:** Live data updates se errors ki gunjayish nahi rehti.
-- **Scalability:** Isme naya factory data asani se add kiya ja sakta hai.
+## 🚀 Installation & Usage
+1. **Clone the Repo:** `git clone https://github.com/your-username/sales-dashboard.git`
+2. **Install Dependencies:** `pip install -r requirements.txt`
+3. **Run Application:** `streamlit run app.py`
 
 ---
-**Developed by:** [Shivam Mishra ]  
-**Project Category:** Factory Operations & Sales Analytics
+**Developed by:** [Aapka Naam]  
+**Project Aim:** Factory Data Automation & Visual Intelligence
